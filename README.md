@@ -5,4 +5,4 @@ Collaborators:
 
 [Aman Virmani](https://github.com/AmanVirmani)
 
-[Pruthvi Sanghvi](https://github.com/Pruthvi-Sanghavi)
+[Pruthvi Sanghavi](https://github.com/Pruthvi-Sanghavi)
